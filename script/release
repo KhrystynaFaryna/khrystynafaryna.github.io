@@ -40,3 +40,4 @@ git fetch -t origin
 
 gem push jekyll-theme-slate-*.gem && git tag "$tag" &&
   git push origin master && git push origin "$tag"
+
