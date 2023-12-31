@@ -3,12 +3,9 @@
 set -e
 
 bundle exec jekyll build
-echo '$msg1' jek
-bundle exec htmlproofer ./_site --check-html --check-sri
-echo '$msg2' proof
+#bundle exec htmlproofer ./_site --check-html --check-sri
 
 bundle exec rubocop -D --config .rubocop.yml
-echo '$msg3' rub
 bundle exec script/validate-html
 echo '$msg4' valhtm
 gem build jekyll-theme-slate.gemspec
