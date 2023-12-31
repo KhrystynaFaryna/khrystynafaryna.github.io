@@ -2,7 +2,6 @@
 # frozen_string_literal: true
 
 require "w3c_validators"
-
 def validator(file)
   extension = File.extname(file)
   if extension == ".html"
@@ -26,4 +25,3 @@ end
 
 validate "index.html"
 validate File.join "assets", "css", "style.css"
-
