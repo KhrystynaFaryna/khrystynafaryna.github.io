@@ -275,7 +275,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 840px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -318,10 +318,10 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
-  font-size: 24px;
-  font-weight: 300;
+  font-size: 0px;
+  font-weight: 0;
   background: none;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #111 0px 0px 0px;
 }
 
 #downloads {
