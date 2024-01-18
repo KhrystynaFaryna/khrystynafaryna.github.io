@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![prof_pic](https://github.com/KhrystynaFaryna/khrystynafaryna.github.io/blob/main/assets/images/profile_pic.jpg)
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
