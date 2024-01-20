@@ -3,7 +3,21 @@ layout: default
 ---
 
 
-![Alt text](assets/images/profile_pic.jpg){: .img-circle .center-block width="250"}
+![Alt text](assets/images/profile_pic.jpg){: .profil-img img{
+    border-radius: 50%;
+    border: 3px solid white;
+    display: inline-block;
+    position:relative;
+    top: 50%;
+   left: 50%; 
+    -webkit-transform: translate(-50%, -50%);
+   -moz-transform: translate(-50%, -50%); 
+   -ms-transform: translate(-50%, -50%); 
+   -o-transform: translate(-50%, -50%); 
+   transform: translate(-50%, -50%); 
+    height:200px;
+    width: 200px;
+}}
 
 
 Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medical image analysis with the Computational Pathology Group (CPG), under the supervision of Geert Litjens and Jeroen van der Laak. In 2017, I obtained a BSc in Physics from Taras Shevchenko National University of Kyiv, Ukraine. In 2020, I obtained a Joint MSc in Medical Imaging and Applications (MaIA) from the University of Girona (Spain), UNICAS (Italy) and the University of Bourgogne (France), as a recipient of the European Union: Erasmus+ EMJMD scholarship. My past affiliations also include Middle East Technical University (Turkey) and the Carl E. Ravin Advanced Imaging Laboratories at Duke University Medical Center (USA).
