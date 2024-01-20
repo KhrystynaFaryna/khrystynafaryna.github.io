@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!--div class="slider" align="middle">      
-        <img src="/assets/images/profile_pic.jpg" alt="" class="img-circle center-block" width= 250>           
+        <img src="assets/images/profile_pic.jpg" alt="" class="img-circle center-block" width= 250>           
 </div-->
 
 
