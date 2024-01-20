@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-![prof_pic](/assets/images/profile_pic.jpg)
+
+ <!--div class="slider" align="middle">      
+        <img src="assets/images/profile_pic.jpg" alt="" class="img-circle center-block" width= 250>           
+ </div-->
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
