@@ -3,6 +3,5 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
-url: 'https://khrystynafaryna.github.io/' # your main domain
-baseurl: 'khrystynafaryna.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
+
 
