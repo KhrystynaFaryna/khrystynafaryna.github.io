@@ -198,6 +198,44 @@ ul.nav-pills  {
 	background-color: #000;
 }
 
+nav#filter a {
+	background-color: #EEE;
+	color:#555;	
+}
+
+nav#filter a:hover, nav#filter a.current {
+	background-color: #428bca;
+	color:#fff;
+}
+
+.isotopeWrapper article{
+    margin-bottom: 30px;
+}
+
+#portfolio img  {
+	width:100%;
+}
+
+#portfolio article p {
+	margin-bottom:1.45em;/*set next row on the baseline*/
+}
+nav#filter {
+	margin-bottom:1.5em;
+}
+
+nav#filter li {
+	display:inline-block;
+	margin:0 0 0 5px;
+}
+nav#filter a {
+	padding: 4px 12px;
+	line-height: 20px;
+	text-decoration: none;
+}
+nav#filter ul {
+	margin-top:30px;
+}
+
 
 img {
   display: inline-block;
