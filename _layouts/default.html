@@ -19,32 +19,9 @@
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
-          
-            <div class="col-md-6">	
+          	
               <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-            </div>	  
-            <div class="col-md-6">
-		<div class="dropdown">
-			<ul class="nav nav-pills">
-                    		<li class="page-scroll">
-                        		<a href="#about">About</a>
-                    		</li>
-                    			<li class="page-scroll">
-                              			<a href="#publications">Publications</a>
-                          		</li>
-                           		<li class="page-scroll">
-                              			<a href="#experience">Experience</a>
-                          		</li>
-                            		<li class="page-scroll">
-                              			<a href="#talks">Talks</a>
-                            		</li>
-                            		<li class="page-scroll">
-                                		<a href="#awards">Awards</a>
-                            		</li>
-			 </ul>
-		</div>
-	     </div>	
-          
+            
 
           {% if site.show_downloads %}
             <section id="downloads">
