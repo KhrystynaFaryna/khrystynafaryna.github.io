@@ -17,41 +17,21 @@ LINKS to GIT, LinkedIn , Google Scholar + add an image to the tab
 # PUBLICATIONS
 
 # WORKSHOPS, TALKS & AFFILIATIONS
-```{=html}
-<!-- -->
-```
--   AI for Medical Diagnosis
 
--   AI for Medical Prognosis
-
-```{=html}
-<!-- -->
-```
 -   Co-author of a tutorial at MICCAI 2023
 
--   
-
-```{=html}
-<!-- -->
-```
 -   Co-organizer of a tutorial at MICCAI 2023
 
--   
+#### Dynamic AI in the Clinical Open World (DIACOW) tu 
+*   Co-organizer of a [continual learning tutorial](https://continualmedai.github.io/daicow2023/) at MICCAI 2023.
+*   Responsible for histopathology part.
+  
+#### AI assisted Gleason grading "in the wild" 
+*   Co-organizer of an interactive workshop at the Computational Pathology Symposium.
 
-```{=html}
-<!-- -->
-```
--   Co-organizer of 'AI assisted Gleason grading "in the wild"' workshop
-    at Computational Pathology Symposium.
-
-```{=html}
-<!-- -->
-```
--   Technical support team member.
-
--   Creating tutorials, blog-posts and organizing workshops to
-    facilitate workflow of deep learning challenges and algorithms on
-    grand-challenge.org platform.
+#### Grand-challenge.org 
+*   Technical support team member.  
+*   Creating tutorials, blog-posts and co-organizing workshops to facilitate workflow of deep learning challenges and algorithms on [grand-challenge.org](https://grand-challenge.org/) platform.
 
 # BLOGS 
 
