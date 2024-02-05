@@ -14,15 +14,7 @@ LINKS to GIT, LinkedIn , Google Scholar + add an image to the tab
 
 # PROJECTS
 
-# PUBLICATIONS
-
-- Faryna, K., van der Laak, J., Litjens, G., “Automatic data augmentation to improve generalization of deep learning in H&E stained histopathology”. In Computers in Biology and Medicine, 2024
-- Faryna, K., et al., “Evaluation of AI-based Gleason grading algorithms "in the wild", (in review)
-- Faryna, K., van der Laak, J., Litjens, G., “Tailoring automated data augmentation to H&E-stained histopathology”. In: Medical Imaging with Deep Learning, 2021
-- Faryna, K., Koschmeider, K., van Ginneken, B., et al., “Adversarial cycle-consistent synthesis of cerebral microbleeds for data augmentation”. In Medical Imaging meets NeurIPS 2020 workshop
-- Faryna, K., Tushar F. T., Hou R., Rubin G. D., Lo J. Y., “Attention-Guided Classification of Abnormalities in Semi-Structured Computed Tomography Reports”. In: 2020 SPIE Medical Imaging: Computer-Aided Diagnosis.
-- VM D’Anniballe, FI Tushar, Faryna, K. et al, “Multi-Label Annotation of Chest Abdomen Pelvis Computed Tomography Text Reports Using Deep Learning”. In: BMC Medical Informatics and Decision Making
-- More publications available on my [Google scholar](https://scholar.google.com/citations?hl=en&user=AxwdnoMAAAAJ&view_op=list_works&gmla=AH70aAVWuGnGL3MrBS2MXpQasrHiAaWOmpGPt2QYgiAcRnc_LTnXZ3xMieS2O3PR10kqhmXDB_W45L9ucqPkSQun1C5LXx_ppcZrH7D5LgOkrMdsr5KGPSTOChJSY2wVzBHxQSW4DrZNtGKlXfW7i5gWIMUIexq0aUjkkrJFplyKVO0&sciund=15610856224343231705)...
+# BLOGS 
 
 # WORKSHOPS, TALKS & AFFILIATIONS
   - **Grand-challenge.org** - technical support team member, as well as creating tutorials, blog-posts, and co-organizing workshops to facilitate workflow of deep learning challenges and algorithms on [grand-challenge.org](https://grand-challenge.org/) platform.
@@ -35,7 +27,19 @@ LINKS to GIT, LinkedIn , Google Scholar + add an image to the tab
 
   - **Workshops4Ukraine** - organized 2 Pytorch workshops (*Convolutional Neural Networks in detail* and *Image segmentation using deep learning*) in the framework of a [crowdsourcing initiative](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).  
 
-# BLOGS 
+
+# PUBLICATIONS
+
+- Faryna, K., van der Laak, J., Litjens, G., “Automatic data augmentation to improve generalization of deep learning in H&E stained histopathology”. In Computers in Biology and Medicine, 2024
+- Faryna, K., et al., “Evaluation of AI-based Gleason grading algorithms "in the wild", (in review)
+- Faryna, K., van der Laak, J., Litjens, G., “Tailoring automated data augmentation to H&E-stained histopathology”. In: Medical Imaging with Deep Learning, 2021
+- Faryna, K., Koschmeider, K., van Ginneken, B., et al., “Adversarial cycle-consistent synthesis of cerebral microbleeds for data augmentation”. In Medical Imaging meets NeurIPS 2020 workshop
+- Faryna, K., Tushar F. T., Hou R., Rubin G. D., Lo J. Y., “Attention-Guided Classification of Abnormalities in Semi-Structured Computed Tomography Reports”. In: 2020 SPIE Medical Imaging: Computer-Aided Diagnosis.
+- VM D’Anniballe, FI Tushar, Faryna, K. et al, “Multi-Label Annotation of Chest Abdomen Pelvis Computed Tomography Text Reports Using Deep Learning”. In: BMC Medical Informatics and Decision Making
+- More publications available on my [Google scholar](https://scholar.google.com/citations?hl=en&user=AxwdnoMAAAAJ&view_op=list_works&gmla=AH70aAVWuGnGL3MrBS2MXpQasrHiAaWOmpGPt2QYgiAcRnc_LTnXZ3xMieS2O3PR10kqhmXDB_W45L9ucqPkSQun1C5LXx_ppcZrH7D5LgOkrMdsr5KGPSTOChJSY2wVzBHxQSW4DrZNtGKlXfW7i5gWIMUIexq0aUjkkrJFplyKVO0&sciund=15610856224343231705)...
+
+
+
 
 # AWARDS & HONOURS 
 
