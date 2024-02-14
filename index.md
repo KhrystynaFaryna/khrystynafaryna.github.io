@@ -10,7 +10,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medi
 [![linkedin](assets/images/linkedin-3-64.png){:width="100%"}](https://www.linkedin.com/in/kfaryna/) [![git](assets/images/github-10-64.png | width=16)
 ](https://github.com/KhrystynaFaryna) [![googlescholar](assets/images/google-scholar-64.png | width=16)
 ](https://scholar.google.com/citations?user=AxwdnoMAAAAJ&hl=en) + add an image to the tab
-<img src="assets/images/linkedin-3-64.png" width="40%">
+[<img src="assets/images/linkedin-3-64.png" width="20%">](https://www.linkedin.com/in/kfaryna/)
 [Link to another page](./another-page.html).
 
 
