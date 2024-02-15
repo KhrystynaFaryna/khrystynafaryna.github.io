@@ -3,5 +3,9 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+github:
+  zip_url: https://www.linkedin.com/in/kfaryna/
+  tar_url: https://github.com/KhrystynaFaryna
+  tar1_url: https://scholar.google.com/citations?user=AxwdnoMAAAAJ&hl=en
 
 
