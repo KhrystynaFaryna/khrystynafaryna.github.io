@@ -445,46 +445,46 @@ Full-Width Styles
 .zip_download_link {
   display: block;
   float: right;
-  width: 64px;
-  height:64px;
+  width: 32px;
+  height:32px;
   text-indent: 0px;
   overflow: hidden;
-  background: url(../images/linkedin-3-64.png) no-repeat bottom left;
+  background: url(../images/linkedin-3-32.png) no-repeat bottom left;
   margin-left: 10px;
 }
 
 .tar_download_link {
   display: block;
   float: right;
-  width: 64px;
-  height:64px;
+  width: 32px;
+  height:32px;
   text-indent: 0px;
   overflow: hidden;
-  background: url(../images/github-10-64.png) no-repeat bottom right;
+  background: url(../images/github-10-32.png) no-repeat bottom right;
   margin-left: 10px;
 }
 
 .tar1_download_link {
   display: block;
   float: right;
-  width: 64px;
-  height:64px;
+  width: 32px;
+  height:32px;
   text-indent: 0px;
   overflow: hidden;
-  background: url(../images/google-scholar-64.png) no-repeat bottom right;
+  background: url(../images/google-scholar-32.png) no-repeat bottom right;
   margin-left: 10px;
 }
 
 .zip_download_link:hover {
-  background: url(../images/linkedin-3-64.png) no-repeat top left;
+  background: url(../images/linkedin-3-32.png) no-repeat top left;
 }
 
 .tar_download_link:hover {
-  background: url(../images/github-10-64.png) no-repeat top right;
+  background: url(../images/github-10-32.png) no-repeat top right;
 }
 
 .tar1_download_link:hover {
-  background: url(../images/google-scholar-64.png) no-repeat top right;
+  background: url(../images/google-scholar-32.png) no-repeat top right;
 }
 
 #main_content_wrap {
