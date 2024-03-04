@@ -10,15 +10,12 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medi
 
 # PROJECTS
 
- - **Automatic data augmentation for H&E-stained histopathology** - technical support team member, as well as creating tutorials, blog-posts, and co-organizing workshops to facilitate workflow of deep learning challenges and algorithms on [grand-challenge.org](https://grand-challenge.org/) platform.
+ - **Automatic data augmentation for H&E-stained histopathology** - [paper](https://www.sciencedirect.com/science/article/pii/S0010482524001021) using AutoML to find optimal data augmentation hyperparameters for H&E-stained histopathology. Pytorch code is available [here](https://github.com/DIAGNijmegen/pathology-he-autoaugmetation) and TensorFlow one is [here](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
-  - **AI-based Glason grading "in-the wild"** - main author of a [tutorial](https://continualmedai.github.io/daicow2023/) at MICCAI Educatinal Challenge 2023. 
+ - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium
 
-  - **LEOPARD challenge** - co-organizer of a [continual learning tutorial](https://continualmedai.github.io/daicow2023/) at MICCAI 2023. Responsible for the histopathology part.
-  
-  - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium.
-
-  - **Ukrainessence** - organized 2 Pytorch workshops (*Convolutional Neural Networks in detail* and *Image segmentation using deep learning*) in the framework of a [crowdsourcing initiative](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).  
+ - **LEOPARD challenge** - co-organizer of a deep learning challenge in histopathology [LEOPARD](https://leopard.grand-challenge.org/) to predict biochemical reccurence of prostate cancer.
+    
 
 
 # BLOGS 
@@ -53,6 +50,8 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medi
 
 
 # AWARDS & HONOURS 
+
+
 
 
 
