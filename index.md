@@ -20,8 +20,11 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medi
     
 
 
-# BLOGS & TUTORIALS
+# BLOGS, TUTORIALS & DOCUMENTATION
 - [Organizing a medical imaging challenge in 2020s: practical considerations.](https://grand-challenge.org/blogs/organizing-a-medical-imaging-challenge-in-2020s-practical-considerations/)
+
+ 
+- [Using grand-challenge.org API.](https://grand-challenge.org/documentation/grand-challenge-api/)
  
 
 
