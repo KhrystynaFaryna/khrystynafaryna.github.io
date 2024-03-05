@@ -16,7 +16,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medi
 
  - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium
 
- - **LEOPARD challenge** - co-organizer of a deep learning challenge in histopathology [LEOPARD](https://leopard.grand-challenge.org/) to predict biochemical reccurence of prostate cancer.
+ - **LEOPARD challenge** - co-organizer of a deep learning challenge in histopathology [LEOPARD](https://leopard.grand-challenge.org/). The task of this challenge is to predict the time to biochemical recurrence of prostate cancer from histopathology slides.
     
 
 
