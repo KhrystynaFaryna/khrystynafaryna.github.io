@@ -57,39 +57,25 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based medi
 
 # AWARDS & HONOURS 
 
-- **MICCAI Educational Challenge Finalist**
-  - ***MICCAI Educational Initiative***; Jun 2023; Vancouver, Canada 
-  - Second place award for an educational tutorial "Organizing a medical imaging challenge in 2020s"
+- **MICCAI Educational Challenge Finalist**; ***MICCAI Educational Initiative***; Jun 2023; Vancouver, Canada; Second place award for an educational tutorial "Organizing a medical imaging challenge in 2020s".
 
 
-- **Erasmus Mundus Joint Master Degree grant**
-  - ***European Union***; Sep 2018 – 2020; France/Italy/Spain
-  - A scholarship for conducting research and pursuing higher education (EMJMD) in Medical Imaging and Applications (MAIA). Amount: 40,000 EUR.
+- **Erasmus Mundus Joint Master Degree grant**; ***European Union***; Sep 2018 – 2020; France/Italy/Spain; A scholarship for conducting research and pursuing higher education (EMJMD) in Medical Imaging and Applications (MAIA). Amount: 40,000 EUR.
 
 
-- **Zavtra.UA scholarship**
-  - ***Victor Pinchuk Foundation***; Jun 2018 – 2019; Kyiv, Ukraine
-  - Zavtra.UA Young Leaders Scholarship is awarded for academic excellence, leadership qualities
+- **Zavtra.UA scholarship**; ***Victor Pinchuk Foundation***; Jun 2018 – 2019; Kyiv, Ukraine; Zavtra.UA Young Leaders Scholarship is awarded for academic excellence, leadership qualities.
 
 
-- **Best project award**
-  - ***Ukrainian Association of Medical Physicists and Engineers***; Sep 2017; Kyiv, Ukraine
-  - VI international conference “Medical physics – current state, issues, development directions. New technologies”, best project among students and young scientists.
+- **Best project award**; ***Ukrainian Association of Medical Physicists and Engineers***; Sep 2017; Kyiv, Ukraine; VI international conference “Medical physics – current state, issues, development directions. New technologies”, best project among students and young scientists.
 
 
-- **TSNUK academic merit scholarship**
-  - ***Taras Shevchenko National University of Kyiv***; Sep 2013–Jun 2017; Kyiv, Ukraine
-  - Academic Merit scholarship is awarded based on academic performance and involvement in scientific and community life.
+- **TSNUK academic merit scholarship**; ***Taras Shevchenko National University of Kyiv***; Sep 2013–Jun 2017; Kyiv, Ukraine; Academic Merit scholarship is awarded based on academic performance and involvement in scientific and community life.
 
 
-- **Erasmus+ academic mobility grant**
-  - ***European Union***; Feb 2015- Feb 2016; Ankara, Turkey
-  - Monthly scholarship for academic mobility in Middle East Technical University (METU).
+- **Erasmus+ academic mobility grant**; ***European Union***; Feb 2015- Feb 2016; Ankara, Turkey; Monthly scholarship for academic mobility in Middle East Technical University (METU).
 
 
-- **Future Leaders Exchange (FLEX) program grant**
-  - ***American Councils for International Education, US Department of State***; Sep 2011-May 2012; USA, CA
-  - Scholarship funding for high school students to travel to the United States, attend a US high school for a full academic year, and live with a host family.
+- **Future Leaders Exchange (FLEX) program grant**; ***American Councils for International Education, US Department of State***; Sep 2011-May 2012; USA, CA; Scholarship funding for high school students to travel to the United States, attend a US high school for a full academic year, and live with a host family.
 
 
 
