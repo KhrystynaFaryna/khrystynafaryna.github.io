@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 ## Improving domain generalization with state-of-the-art data augmentation for H&E stained histopathology with AutoML
 
 
