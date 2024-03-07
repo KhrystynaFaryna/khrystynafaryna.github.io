@@ -384,6 +384,12 @@ Full-Width Styles
   width: 100%;
 }
 
+img.loading{
+  position: absolute;
+  left: 50%;
+  margin-left: -150px
+}
+
 .inner {
   position: relative;
   max-width: 900px;
