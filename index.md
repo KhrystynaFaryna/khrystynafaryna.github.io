@@ -26,7 +26,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
  
 - [Using grand-challenge.org API.](https://grand-challenge.org/documentation/grand-challenge-api/)
 
-- [Improving domain generalization with state-of-the-art data augmentation for H&E stained histopathology with AutoML](./blogs/automatic-augmentation-he-histopathology.md)
+- [Improving domain generalization with state-of-the-art data augmentation for H&E stained histopathology with AutoML.](./blogs/automatic-augmentation-he-histopathology.md)
  
 
 
