@@ -461,6 +461,12 @@ img.loading{
   margin-left: 10px;
 }
 
+/* Resize images */
+.zip_download_link img {
+    width: 100%;
+    height: auto;
+}
+
 .tar_download_link {
   display: block;
   float: right;
@@ -470,6 +476,12 @@ img.loading{
   overflow: hidden;
   background: url(../images/github-10-32.png) no-repeat bottom right;
   margin-left: 10px;
+}
+
+/* Resize images */
+.tar_download_link img {
+    width: 20%;
+    height: auto;
 }
 
 .tar1_download_link {
@@ -483,6 +495,10 @@ img.loading{
   margin-left: 10px;
 }
 
+.tar1_download_link img {
+    width: 100%;
+    height: auto;
+}
 .zip_download_link:hover {
   background: url(../images/linkedin-4-32.png) no-repeat top left;
 }
