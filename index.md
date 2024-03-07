@@ -10,18 +10,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
  <p style="text-align: center;">khrystyna [dot] faryna [at] gmail [dot] com</p>
 
 
-<div class="center">
-  <a href="#">
-    <img src="{% link assets/me.png %}" alt="My profile" width="300">
-  </a>
-  <br>
-  <div class="social-icons">
-    <a href="{{ site.social.fb.target }}" alt="Facebook profile">
-      <img src="{% link assets/fb.svg %}" width="50">
-    </a>
-    <a><img></a>
-  </div>
-</div>
+
 
 # PROJECTS
 
