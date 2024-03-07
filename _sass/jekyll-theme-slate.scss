@@ -463,7 +463,7 @@ img.loading{
 
 /* Resize images */
 .zip_download_link img {
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
@@ -471,7 +471,7 @@ img.loading{
   display: block;
   float: right;
   width: 32px;
-  height:32px;
+  height: 32px;
   text-indent: 0px;
   overflow: hidden;
   background: url(../images/github-10-32.png) no-repeat bottom right;
@@ -479,7 +479,7 @@ img.loading{
 }
 
 /* Resize images */
-.tar_download_link {
+.tar_download_link img {
     width: 20%;
     height: auto;
 }
