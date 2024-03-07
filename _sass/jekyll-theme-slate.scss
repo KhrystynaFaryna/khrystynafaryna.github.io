@@ -253,7 +253,7 @@ img {
 
 p img {
   display: inline;
-  margin: 0 200px 0;
+  margin: 0 0 0;
   padding: 8px;
   vertical-align: middle;
   text-align: center;
@@ -509,7 +509,7 @@ Small Device Styles
 
 @media screen and (max-width: 992px) {
   img {
-    max-width: 100%;
+    max-width: fit-content;
   }
 }
 
