@@ -12,7 +12,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 
 ---
- <p style="text-align: left;">
+
 
 # PROJECTS
 
@@ -86,7 +86,6 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 - **Future Leaders Exchange (FLEX) program grant**; ***American Councils for International Education, US Department of State***; Sep 2011-May 2012; USA, CA; Scholarship funding for high school students to travel to the United States, attend a US high school for a full academic year, and live with a host family.
 
-</p>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W663R1Q497"></script>
