@@ -6,11 +6,13 @@ layout: default
 
 
 Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biomedical image analysis with the [Computational Pathology Group](https://www.computationalpathologygroup.eu/), under the supervision of [Geert Litjens](https://geertlitjens.nl/) and [Jeroen van der Laak](https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/). In 2017, I obtained a BSc in Physics from [TSNUK](https://en.wikipedia.org/wiki/Taras_Shevchenko_National_University_of_Kyiv), Ukraine. In 2020, I obtained an [Erasmus+ Joint MSc in Medical Imaging and Applications (MaIA)](https://maiamaster.udg.edu/). My past affiliations also include [ODTU](https://ii.metu.edu.tr/medical-informatics-ms-phd), Turkey, and the [RAI Labs,](https://sites.duke.edu/railabs/) Duke University Medical Center, USA. Besides, I like photography, working out, chill traveling, and, as you probably noticed from this website, - minimalism. 
-</p>
+
+
  <p style="text-align: center;">khrystyna [dot] faryna [at] gmail [dot] com</p>
 
 
 
+ <p style="text-align: left;">
 
 # PROJECTS
 
@@ -84,7 +86,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 - **Future Leaders Exchange (FLEX) program grant**; ***American Councils for International Education, US Department of State***; Sep 2011-May 2012; USA, CA; Scholarship funding for high school students to travel to the United States, attend a US high school for a full academic year, and live with a host family.
 
-
+</p>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-W663R1Q497"></script>
