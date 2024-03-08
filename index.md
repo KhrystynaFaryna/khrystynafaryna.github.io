@@ -11,7 +11,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
  <p style="text-align: center;">khrystyna [dot] faryna [at] gmail [dot] com</p>
 
 
----
+___
 
 
 # PROJECTS
