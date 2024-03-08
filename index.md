@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+<p align="center">
+  <img src="https://github.com/KhrystynaFaryna/khrystynafaryna.github.io/edit/main/assets/images/avatar.png" />
+</p>
  <p style="text-align: center;"> ![avatar](assets/images/avatar.png)
 
 
