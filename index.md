@@ -11,9 +11,11 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 
  <p style="text-align: center;">khrystyna [dot] faryna [at] gmail [dot] com</p>
- 
- ## PROJECTS
 
+ </br>
+
+
+ ## PROJECTS
  - **Automatic data augmentation for H&E-stained histopathology** - [paper](https://www.sciencedirect.com/science/article/pii/S0010482524001021) using AutoML to find optimal data augmentation hyperparameters for H&E-stained histopathology. Pytorch code is available [here](https://github.com/DIAGNijmegen/pathology-he-autoaugmetation) and TensorFlow one is [here](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
  - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium
