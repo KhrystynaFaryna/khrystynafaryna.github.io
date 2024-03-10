@@ -12,15 +12,11 @@ layout: default
 
 
 Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biomedical image analysis with the [Computational Pathology Group](https://www.computationalpathologygroup.eu/), under the supervision of [Geert Litjens](https://geertlitjens.nl/) and [Jeroen van der Laak](https://www.computationalpathologygroup.eu/members/jeroen-van-der-laak/). In 2017, I obtained a BSc in Physics from [TSNUK](https://en.wikipedia.org/wiki/Taras_Shevchenko_National_University_of_Kyiv), Ukraine. In 2020, I obtained an [Erasmus+ Joint MSc in Medical Imaging and Applications (MaIA)](https://maiamaster.udg.edu/). My past affiliations also include [ODTU](https://ii.metu.edu.tr/medical-informatics-ms-phd), Turkey, and the [RAI Labs,](https://sites.duke.edu/railabs/) Duke University Medical Center, USA. Besides, I like photography, working out, chill traveling, and, as you probably noticed from this website, - minimalism. 
-
 khrystyna [dot] faryna [at] gmail [dot] com
 
 
- 
 
-
-
- ## PROJECTS
+## PROJECTS
  - **Automatic data augmentation for H&E-stained histopathology** - [paper](https://www.sciencedirect.com/science/article/pii/S0010482524001021) using AutoML to find optimal data augmentation hyperparameters for H&E-stained histopathology. Pytorch code is available [here](https://github.com/DIAGNijmegen/pathology-he-autoaugmetation) and TensorFlow one is [here](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
  - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium
