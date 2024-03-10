@@ -15,6 +15,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 ✉️ khrystyna [dot] faryna [at] gmail [dot] com ✉️
 
+-
 
 
 ## PROJECTS
