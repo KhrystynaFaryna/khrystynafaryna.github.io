@@ -18,7 +18,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 
 
-## PROJECTS
+# PROJECTS
 - **Automatic data augmentation for H&E-stained histopathology** - [paper](https://www.sciencedirect.com/science/article/pii/S0010482524001021) using AutoML to find optimal data augmentation hyperparameters for H&E-stained histopathology. Pytorch code is available [here](https://github.com/DIAGNijmegen/pathology-he-autoaugmetation) and TensorFlow one is [here](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
 - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium.
@@ -26,7 +26,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 - **LEOPARD challenge** - co-organizer of a deep learning challenge in histopathology [LEOPARD](https://leopard.grand-challenge.org/). The task of this challenge is to predict the time to biochemical recurrence of prostate cancer from histopathology slides.
     
 
-## BLOGS, TUTORIALS & DOCUMENTATION
+# BLOGS, TUTORIALS & DOCUMENTATION
 - [Organizing a medical imaging challenge in 2020s: practical considerations.](https://grand-challenge.org/blogs/organizing-a-medical-imaging-challenge-in-2020s-practical-considerations/)
 
  
@@ -34,7 +34,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 - [Improving domain generalization with state-of-the-art data augmentation for H&E stained histopathology with AutoML.](./blogs/automatic-augmentation-he-histopathology.md)
  
-## WORKSHOPS, TALKS & AFFILIATIONS
+# WORKSHOPS, TALKS & AFFILIATIONS
   - **Grand-challenge.org** - technical support team member, as well as creating tutorials, blog-posts, and co-organizing workshops to facilitate workflow of deep learning challenges and algorithms on [grand-challenge.org](https://grand-challenge.org/) platform.
 
   - **Organizing a medical imaging challenge in 2020s** - main author of a [tutorial](https://continualmedai.github.io/daicow2023/) at MICCAI Educatinal Challenge 2023. 
@@ -45,7 +45,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
   - **Workshops4Ukraine** - organized 2 Pytorch workshops (*Convolutional Neural Networks in detail* and *Image segmentation using deep learning*) in the framework of a [crowdsourcing initiative](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).  
 
-## PUBLICATIONS
+# PUBLICATIONS
 - Faryna, K., van der Laak, J., Litjens, G., “Automatic data augmentation to improve generalization of deep learning in H&E stained histopathology”, Computers in Biology and Medicine, 2024
   
 - Faryna, K., van der Laak, J., Litjens, G., “Tailoring automated data augmentation to H&E-stained histopathology”, Medical Imaging with Deep Learning, 2021
@@ -61,7 +61,7 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 
 
-## AWARDS & HONOURS 
+# AWARDS & HONOURS 
 
 - **MICCAI Educational Challenge Finalist**; ***MICCAI Educational Initiative***; Jun 2023; Vancouver, Canada; Second place award for an educational tutorial "Organizing a medical imaging challenge in 2020s".
 
