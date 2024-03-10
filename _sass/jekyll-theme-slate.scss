@@ -437,11 +437,12 @@ img.loading{
 }
 
 #downloads {	
-  position: relative;	
-  width: 300px;	
+  position: absolute;	
+  width: 270px;	
   z-index: 10;	
-  bottom: -350px;	
+  bottom: -20px;	
   right: 0;	
+  height: 70px;	
 }
 
 #loading {
