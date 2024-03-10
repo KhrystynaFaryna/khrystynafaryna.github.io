@@ -15,10 +15,10 @@ Hi, I am Khrystyna Faryna - a PhD researcher working on deep learning-based biom
 
 ✉️ khrystyna [dot] faryna [at] gmail [dot] com ✉️
 
-___
+
+
 
 ## PROJECTS
-
 - **Automatic data augmentation for H&E-stained histopathology** - [paper](https://www.sciencedirect.com/science/article/pii/S0010482524001021) using AutoML to find optimal data augmentation hyperparameters for H&E-stained histopathology. Pytorch code is available [here](https://github.com/DIAGNijmegen/pathology-he-autoaugmetation) and TensorFlow one is [here](https://github.com/DIAGNijmegen/pathology-he-auto-augment).
 
 - **AI assisted Gleason grading "in the wild"** - co-organizer of an interactive workshop at the Computational Pathology Symposium.
@@ -27,7 +27,6 @@ ___
     
 
 ## BLOGS, TUTORIALS & DOCUMENTATION
-
 - [Organizing a medical imaging challenge in 2020s: practical considerations.](https://grand-challenge.org/blogs/organizing-a-medical-imaging-challenge-in-2020s-practical-considerations/)
 
  
@@ -47,7 +46,6 @@ ___
   - **Workshops4Ukraine** - organized 2 Pytorch workshops (*Convolutional Neural Networks in detail* and *Image segmentation using deep learning*) in the framework of a [crowdsourcing initiative](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine).  
 
 ## PUBLICATIONS
-
 - Faryna, K., van der Laak, J., Litjens, G., “Automatic data augmentation to improve generalization of deep learning in H&E stained histopathology”, Computers in Biology and Medicine, 2024
   
 - Faryna, K., van der Laak, J., Litjens, G., “Tailoring automated data augmentation to H&E-stained histopathology”, Medical Imaging with Deep Learning, 2021
