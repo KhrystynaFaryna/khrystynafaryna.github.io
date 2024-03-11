@@ -17,7 +17,7 @@ Currently, I am interested in domain shift, foundational models, interpretabilit
 
 
 
-🖂 khrystyna [dot] faryna [at] gmail [dot] com 🖂
+🖂 khrystyna (dot) faryna (at) gmail (dot) com 🖂
 
 
 
