@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Khrystyna Faryna"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate working on deep learning in computational pathology"
+  bio              : "PhD candidate working on deep learning in computational pathology."
   location         : "Nijmegen"
-  employer         : "Computational Pathology Group, Radboudumc"
+  employer         : "CPG, Radboudumc"
   uri              : # URL
   email            : "khrystyna.faryna@gmail.com" 
 
