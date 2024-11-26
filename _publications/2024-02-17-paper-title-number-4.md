@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
-collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+title: "Multi-label annotation of text reports from computed tomography of the chest, abdomen, and pelvis using deep learning"
+collection: publications
+permalink: /publication/2022-multi-label-annotation
+excerpt: 'This paper presents a deep learning approach for multi-label annotation of CT reports.'
+date: 2022-01-01
+venue: 'BMC Medical Informatics and Decision Making'
+paperurl: 'https://doi.org/10.1186/s12911-022-01748-9'
+citation: 'D’Anniballe, V. M., Tushar, F. I., Faryna, K., Han, S., Mazurowski, M. A., Rubin, G. D., Lo, J. Y. (2022). &quot;Multi-label annotation of text reports from computed tomography of the chest, abdomen, and pelvis using deep learning.&quot; <i>BMC Medical Informatics and Decision Making</i>. 22(1):102.'
+
+---
