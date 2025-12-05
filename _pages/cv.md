@@ -14,7 +14,7 @@ redirect_from:
 ## Education
 
 ### PhD Candidate, Medical Image Analysis  
-**Radboud University / RadboudUMC | Dec 2020 – Dec 2024**  
+**Radboud University / RadboudUMC | Dec 2020 – Nowdays**  
 - Thesis: closing the gap in implementation of AI-based breast and prostate cancer grading algorithms in clinical practice.  
 - Supervisors: Geert Litjens, Jeroen van der Laak.  
 - Technical support team member at **grand-challenge.org**.
