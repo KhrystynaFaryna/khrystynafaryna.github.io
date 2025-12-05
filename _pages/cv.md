@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-
+---
 
 ## Education
 
+---
 ### PhD Candidate, Medical Image Analysis  
 **Radboud University / RadboudUMC | Dec 2020 – Nowdays**  
 - Thesis: closing the gap in implementation of AI-based breast and prostate cancer grading algorithms in clinical practice.  
@@ -45,9 +46,11 @@ https://maiamaster.udg.edu
 **Erasmus+ Mobility — METU, Ankara, Turkey (Feb 2016 – Jan 2017)**  
 - Projects: MRI reconstruction
   
-======
+---
 
 ## Work Experience
+
+---
 
 ### Visiting Researcher (MSc thesis), RadboudUMC — DIAG Group  
 **Feb 2020 – Aug 2020 | Nijmegen, NL**  
@@ -70,21 +73,12 @@ https://maiamaster.udg.edu
 - Developed an algorithm for tomosynthesis reconstruction quality control.  
 - Supervisor: Serhiy Senchurov.
 
-======
 
-## Certificates & Workshops
 
-### Deep Learning Specialization — deeplearning.ai  
-**Mar 2019 – Jul 2019**  
-- Neural networks, optimization, CNNs, sequence models.
-
-### AI for Medicine Specialization — deeplearning.ai  
-**Apr 2020 – May 2020**  
-- AI for medical diagnosis and prognosis.
-
-======
+---
 
 ## Service and leadership
+---
 
 ### COMPAYL workshop: COMputational PAthologY and multimodaL data workshop (MICCAI 2025 Challenge)  
 **Oct 2025 | South Korea**  
@@ -120,17 +114,17 @@ https://maiamaster.udg.edu
 - Technical support team member.  
 - Creating tutorials, blog posts, and workshops for deep-learning challenges.
 
-======
-
+---
 ## Technical Skills
+---
 
 **Programming:** Python, MATLAB, C++
 **Deep Learning Frameworks:** PyTorch, TensorFlow  
 **Other:** Docker, Git, Bash, LaTeX, Django, hobby web-development
 
-======
-
+---
 ## Awards & Honours
+---
 
 - **MICCAI Educational Challenge Finalist (2nd place)** — 2023, Vancouver  
 - **Erasmus Mundus Joint Master Degree Scholarship (MAIA)** — €40,000  
@@ -140,16 +134,17 @@ https://maiamaster.udg.edu
 - **Erasmus+ Mobility Scholarship in Middle East Technical University, Ankara, Turkey** — 2015–2016  
 - **Future Leader Exchange (FLEX) Program Scholarship**, US Dept. of State — 2011–2012  
 
-======
-
+---
 Publications
-======
+---
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---  
 Talks
-======
+---
 
 - AI in Prostate Cancer Diagnosis; Prostaatcarcinoma Avond; DNA Pathologie; The Netherlands; November 2025
 - Commercial AI in histopathology: a 2025 market landscape from a European perspective; CPS ECP; Vienna, Austria; September 2025
@@ -157,9 +152,9 @@ Talks
 - ...
 
 
-  
+---
 Teaching
-======
+---
 
 - Image Analysis Course, Radboud University, 2025, teaching assistant
 - Convolutional Neural Networks in detail using Pytorch, [(Workshops4Ukraine)](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine?authuser=0)
