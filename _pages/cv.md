@@ -61,7 +61,7 @@ https://maiamaster.udg.edu
 
 ### Mathematician, Cybervision Inc.  
 **Oct 2017 – Oct 2018 | Kyiv, Ukraine**  
-- Mathematical modeling, simulation, prototyping, consultancy.
+
 
 ### Visiting Researcher (BSc thesis), Teleoptic PRC  
 **Jan 2017 – Jul 2017 | Kyiv, Ukraine**  
